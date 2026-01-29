@@ -1,0 +1,14 @@
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- XAMPP/WAMP (PHP & MySQL)
+- Python 3.8+ with PyTorch
+- Git
+
+### Installation
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/vovakil/thinkbuy-ai.git
